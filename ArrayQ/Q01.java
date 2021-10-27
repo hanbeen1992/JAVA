@@ -1,9 +1,9 @@
-package Array;
+package arrQ;
 
 public class Q01 {
 
 	public static void main(String[] args) {
-		// ë‹¤ìŒê³¼ ê°™ì€ ë°°ì—´ì´ ìˆì„ ë•Œ arr[3].lengthì˜ ê°’ì€ ì–¼ë§ˆì¸ê°€?
+		// ´ÙÀ½°ú °°Àº ¹è¿­ÀÌ ÀÖÀ» ¶§ arr[3].lengthÀÇ °ªÀº ¾ó¸¶ÀÎ°¡?
 		int[][] arr = { 
 		          { 5, 5, 5, 5, 5},
 		          { 10, 10, 10}, 
